@@ -1,0 +1,71 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+api/src/main/resources/invoices/
+api/src/main/resources/utilities/
+### VS Code ###
+.vscode/
+
+### React Native ###
+mobile/nexus/node_modules/
+mobile/nexus/android/
+mobile/nexus/ios/
+mobile/nexus/.vscode
+mobile/nexus/yarn.lock
+mobile/nexus/.expo/
+mobile/nexus/.bundle/
+mobile/nexus/__tests__/
+mobile/nexus/.eslint/
+moobile/nexus/.prettierrc.js
+mobile/nexus/.watchmanconfig
+moobile/nexus/Gemfile
+mobile/nexus/jest.config.js
+mobile/nexus/metro.config.js
+mobile/nexus/tsconfig.json
+mobile/nexus/src/assets/
+mobile/nexus/package-lock.json
+
+### React###
+web/nexus/node_modules/
+web/nexus/public/components/
+web/nexus/yarn.lock
+web/nexus/public/
+web/nexus/package-lock.json
+web/nexus/.yarn/
+web/nexus/yarn-error.log
+web/nexus/.yarnrc
+web/nexus/README.md
+web/nexus/build/
+web/nexus/.gitignore
+
+mobile/nexus/assets/
